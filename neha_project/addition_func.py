@@ -1,4 +1,4 @@
-def add(num1,num2):
-    return (num1+num2)
+def sub(a,b):
+    return (a-b)
     
 #added new changes
